@@ -1,5 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  color: #FFC773;
+  background-color: #9D2933;
+  font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
 }

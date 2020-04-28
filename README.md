@@ -1,2 +1,5 @@
 # emperor-of-the-ming-dynasty
-Emperor of the Ming Dynasty
+
+<h1 align="center">
+  <img src="./assets/images/banner.gif" alt="明朝16帝">
+</h1>
