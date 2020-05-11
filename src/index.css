@@ -2,6 +2,11 @@ body {
   margin: 0;
   padding: 0;
   color: #FFC773;
-  background-color: #9D2933;
+  /* background-color: #9D2933; */
   font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+}
+
+#root {
+  margin: 50px 3%;
+  background-color: #9D2933;
 }

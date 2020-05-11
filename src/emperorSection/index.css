@@ -1,0 +1,13 @@
+.section .emperor-img {
+  width: 200px;
+  max-width: 100%;
+  border: 20px solid #FFC773;
+  border-radius: 2px;
+}
+
+.section .back-top {
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-image: url(../../assets/images/backtop.png);
+}
